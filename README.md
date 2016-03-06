@@ -5,6 +5,6 @@ Forum Thread: http://forum.kerbalspaceprogram.com/index.php?/topic/89422-kosmos-
 
 Permission link: http://forum.kerbalspaceprogram.com/index.php?/topic/89422-kosmos-3142015-rd-170-family-released/&do=findComment&comment=1983202
 
-I have the entire unity project of source files.
+I have the entire unity project of source files. I also have a pm backup where he gave me the source files if that forum post is in question.
 
 License: Attribution-NonCommercial-NoDerivs 3.0 Unported
